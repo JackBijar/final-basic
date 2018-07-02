@@ -1,0 +1,3 @@
+https://piotrminkowski.wordpress.com/tag/spring-cloud-gateway/
+https://medium.com/@fitzoh/creating-a-cloud-foundry-route-service-with-spring-cloud-gateway-2dcabf04540e
+https://cloud.spring.io/spring-cloud-gateway/single/spring-cloud-gateway.html
